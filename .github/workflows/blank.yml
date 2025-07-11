@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"         # every day at 00:00 UTC
+  workflow_dispatch:            # run manually if you like
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ pull the repo so we can commit back into it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ generate the SVG (and keep it in dist/)
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3          # svg‑only version is lighter
+        with:
+          github_user_name: donthigeethikabhargavi
+          svg_out_path: dist/snake.svg         # THIS replaces the old “outputs”
+
+      # 3️⃣ push that SVG to the `output` branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output                # branch that will hold snake.svg
+          build_dir: dist                      # folder created above
+          commit_message: "chore: update snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
