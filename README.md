@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donthigeethikabhargavi&show_icons=true&locale=en&layout=compact" alt="donthigeethikabhargavi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donthigeethikabhargavi&show_icons=true&locale=en" alt="donthigeethikabhargavi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donthigeethikabhargavi" alt="donthigeethikabhargavi" /></p>
