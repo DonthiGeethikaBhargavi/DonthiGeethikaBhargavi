@@ -28,7 +28,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/donthigeethikabhargavi/donthigeethikabhargavi/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/DonthiGeethikaBhargavi/DonthiGeethikaBhargavi/blob/output/github-snake-dark.svg)
 
 
 
