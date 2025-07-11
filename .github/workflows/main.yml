@@ -2,15 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # runs every day at 00:00 UTC
+  workflow_dispatch:      # lets you run it manually
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Ensure dist directory exists
@@ -20,10 +20,9 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: donthigeethikabhargavi
-          outputs: |
-            ./dist/snake.svg
+          svg_out_path: dist/snake.svg   # ✅ corrected key name
 
-      - name: Push Snake SVG to the output branch
+      - name: Push Snake SVG to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
