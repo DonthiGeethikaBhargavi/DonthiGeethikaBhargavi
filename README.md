@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DonthiGeethikaBhargavi?tab=repositories](https://github.com/DonthiGeethikaBhargavi?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL, responsive UI design, or building full-stack applications!**
+- 💬 Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL,Typescript, responsive UI design, or building full-stack applications!**
 
 - 📫 How to reach me **donthigeethikabhargavi@gmail.com**
 
