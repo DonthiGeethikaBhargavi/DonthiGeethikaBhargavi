@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
