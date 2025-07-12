@@ -20,7 +20,7 @@ Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 
 - <img src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif" alt="Mailbox GIF" width="30"> Reach me at **donthigeethikabhargavi@gmail.com**
 
-- ⚡ Fun fact **I'm a technology aficionado who started with electrical circuits and transitioned into full-stack development — these days, I debug more Java code than voltage levels! ⚡💻**
+- ⚡ Fun fact **I'm a technology aficionado who started with electrical circuits and transitioned into full-stack development — these days, I debug more Java code than voltage levels! ⚡<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"/>**
 
     </td>
     <td>
