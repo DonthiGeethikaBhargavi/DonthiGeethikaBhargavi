@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Donthi Geethika Bhargavi</h1>
 <h3 align="center">A burgeoning Full Stack Developer from India, continuously building expertise across frontend and backend ecosystems.</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="400" alt="Girl Coding GIF"/>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donthigeethikabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="donthigeethikabhargavi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donthigeethikabhargavi" alt="donthigeethikabhargavi" /></a> </p>
 
+<table>
+  <tr>
+    <td>
+
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/DonthiGeethikaBhargavi?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL,Typescript, responsive UI design, or building full-stack applications!**
+- 💬 Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL, Typescript, responsive UI design, or building full-stack applications!**
 
 - 📫 Reach me at **donthigeethikabhargavi@gmail.com**
 
-- ⚡ Fun fact **I'm a technology aficionado who started with electrical circuits and transitioned into full-stack development —  these days, I debug more Java code than voltage levels!  ⚡💻**
+- ⚡ Fun fact **I'm a technology aficionado who started with electrical circuits and transitioned into full-stack development — these days, I debug more Java code than voltage levels! ⚡💻**
+
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" alt="Coding" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
