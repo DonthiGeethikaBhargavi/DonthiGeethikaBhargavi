@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donthi Geethika Bhargavi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A burgeoning Full Stack Developer from India, building technical skills across frontend and backend ecosystems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donthigeethikabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="donthigeethikabhargavi" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **donthigeethikabhargavi@gmail.com**
 
-- ⚡ Fun fact **I'm a tech enthusiast who started with electrical circuits and eventually embraced full-stack development — now I debug more Java than voltages! ⚡💻**
+- ⚡ Fun fact **I'm a technology aficionado who started with electrical circuits and transitioned into full-stack development — today, I debug more Java than voltage levels!  ⚡💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
