@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Donthi Geethika Bhargavi</h1>
 <h3 align="center">A burgeoning Full Stack Developer from India, continuously building expertise across frontend and backend ecosystems.</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="400" alt="Girl Coding GIF"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donthigeethikabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="donthigeethikabhargavi" /> </p>
 
