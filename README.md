@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Donthi Geethika Bhargavi</h1>
-<h3 align="center">A burgeoning Full Stack Developer from India, continuously building expertise across frontend and backend ecosystems.</h3>
+<h1 align="center">
+Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+   I'm Donthi Geethika Bhargavi
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=A+burgeoning+Full+Stack+Developer+from+India;Mastering+Frontend+and+Backend+Ecosystems" alt="Typing SVG" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donthigeethikabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="donthigeethikabhargavi" /> </p>
 
@@ -9,7 +14,7 @@
   <tr>
     <td>
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/DonthiGeethikaBhargavi?tab=repositories)
+- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"/> All of my projects are available at [My GitHub Repositories](https://github.com/DonthiGeethikaBhargavi?tab=repositories)
 
 - 💬 Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL, Typescript, responsive UI design, or building full-stack applications!**
 
