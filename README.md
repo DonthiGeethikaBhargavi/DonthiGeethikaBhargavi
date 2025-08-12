@@ -16,7 +16,7 @@ Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 
 - <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"/> All of my projects are available at [My GitHub Repositories](https://github.com/DonthiGeethikaBhargavi?tab=repositories)
 
-- <img src="https://cdn.pixabay.com/animation/2023/03/29/06/48/06-48-15-574_512.gif" width="20" alt="Girl Developer GIF" /> Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL, Typescript, responsive UI design, or building full-stack applications!**
+- <img src="https://cdn.pixabay.com/animation/2023/03/29/06/48/06-48-15-574_512.gif" width="20" alt="Girl Developer GIF" /> Ask me about **Java, Python, Spring Boot, Hibernate, REST APIs, React Native, JavaScript, HTML, CSS, MySQL, Typescript, responsive UI design, and building full-stack applications!**
 
 - <img src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif" alt="Mailbox GIF" width="30"> Reach me at **donthigeethikabhargavi@gmail.com**
 
