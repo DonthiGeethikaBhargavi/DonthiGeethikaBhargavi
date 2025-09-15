@@ -85,8 +85,8 @@ Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donthigeethikabhargavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donthigeethikabhargavi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=donthigeethikabhargavi&show_icons=true&theme=dracula&locale=en&hide_border=false&include_all_commits=false" width="320" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donthigeethikabhargavi&layout=compact&langs_count=5&theme=dracula&hide_border=false" width="320" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -95,6 +95,8 @@ Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 <br />
 
 ![snake gif](https://github.com/DonthiGeethikaBhargavi/DonthiGeethikaBhargavi/blob/output/github-snake-dark.svg)
+
+
 
 
 
