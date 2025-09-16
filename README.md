@@ -55,6 +55,7 @@ Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 
 **Backend:**<br>
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
 <a href="https://hibernate.org/"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" alt="Hibernate" width="40" height="40"/></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
